@@ -17,6 +17,6 @@
 
 ![image caption](batchest-jhnnycrwsh.gif)
 
-[link to background](batchest-jhnnycrwsh.gif)
+[link to background](/Background.md)
 
 
