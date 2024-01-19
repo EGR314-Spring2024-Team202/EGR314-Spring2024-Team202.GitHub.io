@@ -4,6 +4,7 @@ title: Home
 
 # Moblie Weather Device
 ## Embedded Systems Design Project II (2024 Spring)
+
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
@@ -11,7 +12,7 @@ _Italic Text_
 ## Team Members
 
 * Bradley Baltazar
-* Dawson Rocker
+* Dawson Rockers
 * Ean Potter
 * Edgar Lopez
 
