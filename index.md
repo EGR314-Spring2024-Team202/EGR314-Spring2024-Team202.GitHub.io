@@ -17,6 +17,3 @@
 [link to background]([/Background](https://tenor.com/view/batchest-jhnnycrwsh-chills-batchesting-forsen-gif-24075567))
 
 
-
-[example link to idealab](https://idealab.asu.edu)
-
