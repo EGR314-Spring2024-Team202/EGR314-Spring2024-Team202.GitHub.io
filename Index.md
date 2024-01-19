@@ -2,19 +2,18 @@
 title: Home
 ---
 
-# Home
-
-## Introduction
-
+# Moblie Weather Device
+## Embedded Systems Design Project II (2024 Spring)
 **Bold Text**
 _Italic Text_
 **_Bold and Italic Text_**
 
-## Research Question
+## Team Members
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+* Bradley Baltazar
+* Dawson Rocker
+* Ean Potter
+* Edgar Lopez
 
 ## Background
 
