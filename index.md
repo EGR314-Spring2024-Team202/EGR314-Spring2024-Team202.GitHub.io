@@ -3,6 +3,9 @@
 
 ## Embedded Systems Design Project II (2024 Spring)
 
+## Team 202 - SystemError
+404 Team name not found
+
 ## Team Members
 
 * Bradley Baltazar
