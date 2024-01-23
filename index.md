@@ -1,5 +1,5 @@
 
-# Moblie Weather Device
+# Mobile Weather Device
 
 ## Embedded Systems Design Project II (2024 Spring)
 
@@ -9,7 +9,7 @@
 ## Team Members
 
 * Bradley Baltazar
-* Dawson Rockers
+* Dawson Rocker
 * Ean Potter
 * Edgar Lopez
 
