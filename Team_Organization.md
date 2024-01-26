@@ -7,3 +7,7 @@ Our focus centers on advancing our expertise in embedded system design for futur
 ## Mission Statement
 
 Our mission is to empower individuals and communities with real-time environmental insights. With a focus on innovation, user satisfaction, we envision a future where our product contributes to informed decision making, and environmental awareness. Through continuous improvement, we aim to create a product that not only meets but exceeds the expectations of our users. 
+
+## Communcation Channels 
+
+Our team communication channels is mainly text and discord. Our contact information as well as our roles and meeting schedule can be found in [appendix_1](/Appendix_1.md)
