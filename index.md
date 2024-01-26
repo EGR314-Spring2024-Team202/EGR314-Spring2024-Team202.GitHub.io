@@ -8,7 +8,7 @@
 ## Team 202 
 
 
-## Team Members
+### Team Members
 
 * Bradley Baltazar
 * Dawson Rocker
