@@ -1,5 +1,5 @@
 ## Communication Channels
 
 ---
-Name: Bradley Baltazar: Dawson Rocker
+Name: Bradley Baltazar
 ---
