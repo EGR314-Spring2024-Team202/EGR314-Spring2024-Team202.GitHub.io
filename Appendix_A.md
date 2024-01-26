@@ -4,5 +4,5 @@
 
 # Meeting Schedule
 
-![image caption](Communication_channels.png)
+![image caption](Meeting_schedule.png)
 
