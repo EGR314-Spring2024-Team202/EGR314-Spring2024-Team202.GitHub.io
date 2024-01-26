@@ -10,4 +10,4 @@ Our mission is to empower individuals and communities with real-time environment
 
 ## Communcation Channels 
 
-Our team communication channels is mainly text and discord. Our contact information as well as our roles and meeting schedule can be found in [appendix_1](/Appendix_1.md)
+Our team communication channels is mainly text and discord. Our contact information as well as our roles and meeting schedule can be found in [Appendix A](/Appendix_1.md)
