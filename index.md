@@ -17,7 +17,7 @@
 
 ## Table of Contents
 
-[link to Team Organization](/Team Organization.md)
+[link to Team Organization](/Team_Organization.md)
 
 
 
