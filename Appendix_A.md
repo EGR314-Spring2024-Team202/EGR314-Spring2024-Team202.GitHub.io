@@ -1,5 +1,5 @@
 ## Communication Channels
 
 
-![image caption](batchest-jhnnycrwsh.gif)
+![image caption](Communication_channels.png)
 
