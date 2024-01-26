@@ -1,10 +1,12 @@
 
-# Mobile Weather Device
+# Mobile Camper
 
-## Embedded Systems Design Project II (2024 Spring)
+## ASU | Embedded Systems Design Project II (2024 Spring) | Prof. Travis Kelley
 
-## Team 202 - SystemError
-404 Team name not found
+1/25/2024
+
+## Team 202 
+
 
 ## Team Members
 
