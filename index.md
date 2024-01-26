@@ -15,6 +15,14 @@
 * Ean Potter
 * Edgar Lopez
 
+## Table of Contents
+
+[link to Team Organization](/Team Organization.md)
+
+
+
+
+
 ## Background
 
 ![image caption](batchest-jhnnycrwsh.gif)
