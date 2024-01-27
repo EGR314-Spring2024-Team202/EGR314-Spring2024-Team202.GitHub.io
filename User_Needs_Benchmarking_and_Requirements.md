@@ -1,6 +1,6 @@
-## Benchmarking
+# Benchmarking
 
-# 1. Searched: “Mobile weather station”
+## 1. Searched: “Mobile weather station”
 <br>
 
 ![image caption](Product_1.png)
