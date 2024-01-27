@@ -41,7 +41,7 @@ Description: Make planning your day a Breeze with La Crosse Technology’s new c
 ![image catption](Reviews_2.png)
 ![image catption](Reviews_3.png)
 
-## 3. Searched: “Wireless weather station”
+## 3. Searched: “Portable weather station”
 <br>
 
 ![image caption](Product_3.png)
@@ -62,3 +62,23 @@ Description: A complete weather station in the palm of your hand. Features an er
 ![image catption](Reviews_4.png)
 ![image catption](Reviews_5.png)
 ![image catption](Reviews_6.png)
+
+## 4. Searched: “Wireless weather station”
+<br>
+
+![image caption](Product_4.png)
+
+
+Search Result: [ECOWITT Wittboy Pro Weather Station HP2564]([https://www.amazon.com/portable-weather-station/s?k=portable+weather+station](https://www.amazon.com/s?k=wireless+weather+station))
+<br>
+Product 2: ECOWITT Wittboy Pro Weather Station HP2564
+<br>
+Price: $299.99
+<br>
+Vendor: Amazon
+<br>
+Description: Description: All-in-1 Weather Station : Temperature, humidity, wind direction/speed, light and UV levels and Haptic Rainfall Sensor(More accuracy Anti-vibration design).
+
+![image catption](Reviews_7.png)
+![image catption](Reviews_8.png)
+![image catption](Reviews_9.png)
