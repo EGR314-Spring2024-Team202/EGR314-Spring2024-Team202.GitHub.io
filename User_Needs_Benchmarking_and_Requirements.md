@@ -40,3 +40,25 @@ Description: Make planning your day a Breeze with La Crosse Technology’s new c
 
 ![image catption](Reviews_2.png)
 ![image catption](Reviews_3.png)
+
+## 3. Searched: “Wireless weather station”
+<br>
+
+![image caption](Product_3.png)
+
+
+Search Result: [Ambient Weather WM-5 Handheld Weather Meter ](https://www.amazon.com/portable-weather-station/s?k=portable+weather+station)
+<br>
+Product 2: Ambient Weather WM-5 Handheld Weather Meter
+<br>
+Price: $140
+<br>
+Vendor: Amazon
+<br>
+Description: A complete weather station in the palm of your hand. Features an ergonomic design with soft carrying case and neck lanyard. Unique pocket-knife design to protect the unit when not in use. Water resistant and floats. Includes two year factory warranty
+
+### Reviews and User Needs
+
+![image catption](Reviews_4.png)
+![image catption](Reviews_5.png)
+![image catption](Reviews_6.png)
