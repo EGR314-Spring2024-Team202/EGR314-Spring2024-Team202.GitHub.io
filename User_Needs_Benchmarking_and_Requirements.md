@@ -20,7 +20,7 @@ Allows you to monitor your home and backyard weather conditions with brilliant, 
 
 |Possitive|Negative|
 |---|---|
-|Stuart Bruce: Very simple and fast setup with easy to follow directions. <br>Mounting was super easy and customizable LCD displays are a nice touch. (Summarization)|1.Ease of use (Explicit) <br>2.The kit has nice Customizability (Latent) <br>3.Fast setup (Latent)|
+|Stuart Bruce: Very simple and fast setup with easy <br>to follow directions. Mounting was super easy and <br>customizable LCD displays are a nice touch. (Summarization)|1.Ease of use (Explicit) <br>2.The kit has nice Customizability (Latent) <br>3.Fast setup (Latent)|
 
 
 
