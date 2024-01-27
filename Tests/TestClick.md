@@ -1,1 +1,1 @@
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_wKID-S3ufrU/0.jpg)](http://www.youtube.com/watch?v=wKID-S3ufrU " Check Point 1 ")
+[![Check Point 1](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fm.youtube.com%2Fwatch%3Fv%3DwKID-S3ufrU)](https://m.youtube.com/watch?v=wKID-S3ufrU)
