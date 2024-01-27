@@ -7,7 +7,6 @@ We devised three designs were our final choices using the brainstormed ideas lis
 <br>
 <br>
 
-  
 <div align="left"> 
   
 ## Design Ideas
