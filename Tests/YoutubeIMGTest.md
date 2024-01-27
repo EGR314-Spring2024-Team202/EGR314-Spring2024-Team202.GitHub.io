@@ -1,1 +1,1 @@
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=wKID-S3ufrU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Check Point 1](https://i.imghippo.com/files/1706385362.jpg](https://m.youtube.com/watch?v=wKID-S3ufrU)
