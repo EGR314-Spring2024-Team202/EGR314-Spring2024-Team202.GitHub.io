@@ -8,7 +8,10 @@ We devised three designs were our final choices using the brainstormed ideas lis
 
 <br>
 
+<div align="left">
+
 ## Design Ideas
+<p align="left">
 As a group, we came up with 95 different ideas, features, and add-ons for a possible project design. 
 
 <div align="center">
