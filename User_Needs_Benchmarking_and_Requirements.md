@@ -3,6 +3,7 @@
 1. Searched: “Mobile weather station”
 <br>
 ![image caption](Product_1.png)
+<br>
 Search Result: https://www.amazon.com/portable-weather-station/s?k=portable+weather+station
 <br>
 Product 1: Ambient Weather WS-2902
