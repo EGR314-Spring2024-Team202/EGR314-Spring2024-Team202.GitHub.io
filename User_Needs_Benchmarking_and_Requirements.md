@@ -1,7 +1,7 @@
 ## Benchmarking
 
 1. Searched: “Mobile weather station”
-(`<br>`)
+<br>
      a. Search Result: https://www.amazon.com/portable-weather-station/s?k=portable+weather+station 
 Product 1: Ambient Weather WS-2902 
 Price: $189.99
