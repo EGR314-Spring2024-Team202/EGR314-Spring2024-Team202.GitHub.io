@@ -4,7 +4,7 @@
 
 We devised three designs were our final choices using the brainstormed ideas listed below.
 
-![image caption](Design_Ideation_Results.png)
+![image caption](Pictures/Design_Ideation_Results.png)
 
 <br>
 
