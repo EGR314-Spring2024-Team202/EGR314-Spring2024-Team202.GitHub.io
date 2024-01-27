@@ -1,16 +1,5 @@
 ## Design Ideation
 
-1. Searched: “Mobile weather station”
-
-![image caption](Design_Ideation_2)
-![image caption](Design_Ideation_3)
-![image caption](Design_Ideation_4)
-Search Result: https://www.amazon.com/portable-weather-station/s?k=portable+weather+station
+<img align="left" length="450" width="450" src="Design_Ideation_2.png"> <img align="right" length="450" width="425" src="Design_Ideation_1.png">
 <br>
-Product 1: Ambient Weather WS-2902
-<br>
-Price: $189.99
-<br>
-Vendor: Amazon
-<br>
-Allows you to monitor your home and backyard weather conditions with brilliant, easy-to-read LCD color display. Wireless all-in-one integrated sensor array measures wind speed/direction, temperature, humidity, rainfall, UV and solar radiation.
+<img align="left" length="400" width="400" src="Design_Ideation_3.png"> <img align="right" length="450" width="425" src="Design_Ideation_4.png">
