@@ -1,7 +1,10 @@
 ## Design Ideation
 
 1. Searched: “Mobile weather station”
-![image caption](Product_1)
+
+![image caption](Design_Ideation_2)
+![image caption](Design_Ideation_3)
+![image caption](Design_Ideation_4)
 Search Result: https://www.amazon.com/portable-weather-station/s?k=portable+weather+station
 <br>
 Product 1: Ambient Weather WS-2902
