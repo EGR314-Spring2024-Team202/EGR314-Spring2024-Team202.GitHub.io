@@ -82,3 +82,24 @@ Description: Description: All-in-1 Weather Station : Temperature, humidity, wind
 ![image catption](Reviews_7.png)
 ![image catption](Reviews_8.png)
 ![image catption](Reviews_9.png)
+
+## 5. Searched: “Wireless weather station”
+<br>
+
+![image caption](Product_5.png)
+
+
+Search Result: [U UNNI Weather Station Wireless Indoor Outdoor Thermometer ](https://www.amazon.com/s?k=wireless+weather+station&i=industrial&crid=CRJ8Y3HICIXV&sprefix=wireless+weather+station%2Cindustrial%2C124&ref=nb_sb_noss_2)
+<br>
+Product 2: U UNNI Weather Station Wireless Indoor Outdoor Thermometer
+<br>
+Price: $33
+<br>
+Vendor: Amazon
+<br>
+【Multifunctional Weather Stations Wireless Indoor Outdoor】 Switchable C and F, Alarm Clock, 12/24-Hour Format, Indoor and Outdoor Temperature & Humidity, Moon Phase, Mold Index, Dew Point and Heat Index, Barometric Pressure, Max/Min Data. 
+
+![image catption](Reviews_9.png)
+![image catption](Reviews_10.png)
+
+
