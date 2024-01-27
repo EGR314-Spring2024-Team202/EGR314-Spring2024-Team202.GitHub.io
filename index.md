@@ -11,7 +11,7 @@
 ### Team Members
 
 * Bradley Baltazar
-* Dawson Rocker
+* Dawson Rockers
 * Ean Potter
 * Edgar Lopez
 
