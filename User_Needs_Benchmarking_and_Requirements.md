@@ -15,6 +15,7 @@ Price: $189.99
 Vendor: Amazon
 <br>
 Allows you to monitor your home and backyard weather conditions with brilliant, easy-to-read LCD color display. Wireless all-in-one integrated sensor array measures wind speed/direction, temperature, humidity, rainfall, UV and solar radiation.
+
 ## Reviews
 
 |Possitive|Negative|
