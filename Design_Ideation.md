@@ -6,8 +6,11 @@ We devised three designs were our final choices using the brainstormed ideas lis
 
 <div align="center"> <img src="Design_Ideation_Results.png">
 
+<br>
 
 ## Final Picks
+
+<br>
 
 As a group, we came up with 95 different ideas, features, and add-ons for a possible project design. 
 
