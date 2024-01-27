@@ -36,3 +36,7 @@ Vendor: Amazon
 <br>
 Description: Make planning your day a Breeze with La Crosse Technology’s new combination Wind and Weather station. Don’t be surprised by changing conditions in and outside of your home.
 
+### Reviews and User Needs
+
+![image catption](Reviews_2.png)
+![image catption](Reviews_3.png)
