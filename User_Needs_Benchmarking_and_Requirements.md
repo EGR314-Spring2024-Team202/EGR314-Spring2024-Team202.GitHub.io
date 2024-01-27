@@ -69,7 +69,7 @@ Description: A complete weather station in the palm of your hand. Features an er
 ![image caption](Product_4.png)
 
 
-Search Result: [ECOWITT Wittboy Pro Weather Station HP2564]([https://www.amazon.com/portable-weather-station/s?k=portable+weather+station](https://www.amazon.com/s?k=wireless+weather+station))
+Search Result: [ECOWITT Wittboy Pro Weather Station HP2564](https://www.amazon.com/s?k=wireless+weather+station&i=industrial&crid=CRJ8Y3HICIXV&sprefix=wireless+weather+station%2Cindustrial%2C124&ref=nb_sb_noss_2)
 <br>
 Product 2: ECOWITT Wittboy Pro Weather Station HP2564
 <br>
