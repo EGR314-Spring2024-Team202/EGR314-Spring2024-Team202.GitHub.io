@@ -21,7 +21,7 @@ Allows you to monitor your home and backyard weather conditions with brilliant, 
 |Possitive|Negative|
 |---|---|
 |Stuart Bruce: Very simple and fast setup with easy <br>to follow directions. Mounting was super easy and <br>customizable LCD displays are a nice touch. (Summarization)|1.Ease of use (Explicit) <br>2.The kit has nice Customizability (Latent) <br>3.Fast setup (Latent)|
-|Steven: Very easy to set up and the display is easy <br>to read, although you must keep a stable WIFI <br>connection to use properly.  (Summarization)|1.Easy to set up (Latent) <br>The screen is easy to read (Explicit) <br>Must keep a strong WIFI connection (Latent)|
+|Steven: Very easy to set up and the display is easy <br>to read, although you must keep a stable WIFI <br> connection to use properly.  (Summarization)|1.Easy to set up (Latent) <br>The screen is easy to read (Explicit) <br>Must keep a strong WIFI connection (Latent)|
 
 
 
