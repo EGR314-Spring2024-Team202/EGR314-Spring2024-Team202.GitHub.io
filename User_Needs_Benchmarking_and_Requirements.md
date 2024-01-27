@@ -4,9 +4,9 @@
 <br>
 
 ![image caption](Product_1.png)
-
+[Ambient Weather WS-2902](https://www.amazon.com/portable-weather-station/s?k=portable+weather+station)
 <br>
-Search Result: [Ambient Weather WS-2902](https://www.amazon.com/portable-weather-station/s?k=portable+weather+station)
+Search Result:
 <br>
 Product 1: Ambient Weather WS-2902
 <br>
