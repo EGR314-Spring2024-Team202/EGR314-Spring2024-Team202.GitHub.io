@@ -17,16 +17,16 @@
 
 ## Table of Contents
 
-[link to Team Organization](/Team_Organization.md)
+[Team Organization](/Team_Organization.md)
 
+[User Needs Benchmarking and Requirements](/User_Needs_Benchmarking_and_Requirements.md)
 
+[Design Ideation](/Design_Ideation.md)
 
+[Presentation](/Presentation.md)
 
+## Appendix
 
-## Background
-
-![image caption](batchest-jhnnycrwsh.gif)
-
-[link to background](/Background.md)
+[Appendix A](Appendix_A.md)
 
 
