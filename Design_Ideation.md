@@ -4,17 +4,14 @@
 
 We devised three designs were our final choices using the brainstormed ideas listed below.
 
-<div align="center"> <img src="Design_Ideation_Results.png">
+![image caption](Design_Ideation_Results.png)
 
 <br>
 
-<div align="left">
-
-
-<p align="left">
+## Design Ideas 
+<br>
 As a group, we came up with 95 different ideas, features, and add-ons for a possible project design. 
-  
-## Design Ideas
+<br>
 <div align="center">
 <img length="450" width="450" src="Design_Ideation_2.png"><img length="450" width="425" src="Design_Ideation_1.png">
 <br>
