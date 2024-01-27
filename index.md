@@ -23,7 +23,7 @@
 
 [Design Ideation](/Design_Ideation.md)
 
-[Presentation](https://youtu.be/OC-HKP8TVps)
+[Presentation](Presentation.md)
 
 ## Appendix
 
