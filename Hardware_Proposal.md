@@ -2,7 +2,6 @@
 
 <table>
 <tr><th>Logic Level Parts</th><th>Additional Parts</th></tr>
-  
 <tr><td>
 
 | Product |Part Number|
@@ -31,5 +30,12 @@
 </td></tr> </table>
 
 
+
+|Logic Level Parts|Additional Parts|
+|--|--|
+|<table> <tr><th>Product</th><th>Part Number</th></tr><tr><td>Temperature Sensor</td><td>TC74A0-3.3VCTTR</td></tr> </table>| <table> <tr><th>Table 2 Heading 1</th><th>Table 2 Heading 2</th></tr><tr><td>Row 1 Column 1</td><td>Row 1 Column 2</td></tr> </table>|
+
 ## Complete Schematic
 ![](Pictures/TS.png)
+
+
