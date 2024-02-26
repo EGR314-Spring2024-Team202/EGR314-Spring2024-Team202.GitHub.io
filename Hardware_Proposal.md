@@ -2,6 +2,7 @@
 
 <table>
 <tr><th>Logic Level Parts</th><th>Additional Parts</th></tr>
+  
 <tr><td>
 
 | Product |Part Number|
