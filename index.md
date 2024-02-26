@@ -23,6 +23,8 @@
 
 [Design Ideation](/Design_Ideation.md)
 
+[Selected Design](/Selected_Design.md)
+
 ## Presentation
 
 [<img src="https://i.imghippo.com/files/1706385362.jpg" width="500">](https://m.youtube.com/watch?v=wKID-S3ufrU)
