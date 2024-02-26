@@ -27,7 +27,7 @@
 
 [Block Diagram](/Block_Diagram.md)
 
-[Software Proposal](/Software_Proposal.md)
+[Software Proposal](/Software_proposal.md)
 
 [Hardware Proposal](/Hardware_Proposal.md)
 
