@@ -3,4 +3,12 @@ The design the team decided on was a compact, user-friendly temperature and humi
 
 ## Canopy and Overall Design
 
-![image caption](Canopy.png)
+![image caption](Pictures/Canopy.png)
+
+## Temperature and Humidity Sensor Housing
+
+![image caption](Pictures/Housing.png)
+
+## LCD Screen
+
+![image caption](Pictures/LCD_Screen.png)
