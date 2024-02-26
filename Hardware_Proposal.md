@@ -26,10 +26,6 @@
 | Resistor (541-2841-1-ND) |2.2k Ohm|2|
 | Inductor (IHLP2525CZER220M11) |22uH|1|
 
-</td></tr> </table>
-
-
-
 ## Complete Schematic
 ![](Pictures/TS.png)
 
