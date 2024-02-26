@@ -11,8 +11,8 @@ The block diagram consists of:
    - The sensor has an accuracy of +- 4.5%
   
 3. One High Powered 12v Motor
-   - BRAD FILL HERE
-   - AND HERE IF YOU NEED
+   - This motor will be used to present the canopy and retract based off temperature and humidity values
+   - Motor itself will receive power from the 12 volt rail as the motor driver will recieve 3.3V
   
 4. The entire system is programmed through a PIC18F47Q10 Microchip along with an ESP32 WiFi Module
    - EDGAR FILL IN HERE
