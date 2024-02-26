@@ -9,9 +9,20 @@ Here's the systematic process our team followed to select the microcontroller fo
 
 <br>
 
+## Top Choices
 
 ![](Pictures/Top_Picks.png)
 
-![](Pictures/)
+<br>
 
-![](Pictures/)
+## Each Microcontroller's Features
+
+![](Pictures/Features.png)
+
+## Microcontroller Rankings
+
+![](Pictures/Rankings.png)
+
+## Final Choice and Rationale
+
+After careful consideration, we opted for the PIC16F18325-E/SL microcontroller. Boasting ample GPIO pins and versatile programming support, it perfectly aligns with our project needs. Its efficient low-power design is particularly advantageous for our battery-powered application.
