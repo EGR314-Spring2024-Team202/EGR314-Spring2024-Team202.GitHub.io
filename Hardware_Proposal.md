@@ -1,10 +1,11 @@
 # Hardware
 
+Presented below is the comprehensive inventory of the team's logic level (3.3V MAX) components, accompanied by the essential supporting components required for their operation. Following these tables, you'll find the complete schematic of the team's setup
 
 ## Logic Level Parts 
 
 | Product |Part Number|
-|  --- |  --- |
+|  :---: |  :---: |
 |Temperature Sensor|TC74A0-3.3VCTTR|
 |Microchip|PIC16F18325-ESL|
 |WiFi Module|ESP32-DEVKIT-V1|
@@ -15,7 +16,7 @@
 ## Additional Parts
 
 | Product (Part Number) | Value | Quantity |
-|  ---   | --- | --- |
+|  :---:   | :---: | :---: |
 | Non-Polarized Capacitor (EDK107M035S9HAA) |100uF|4|
 | Non-Polarized Capacitor (718-2502-1-ND) |.22uF|1|
 | Non-Polarized Capacitor (PCF1126CT-ND) |.1uF|3|
