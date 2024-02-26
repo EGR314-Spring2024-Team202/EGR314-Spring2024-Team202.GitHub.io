@@ -1,2 +1,6 @@
-// Dawson if you can render out a photo of our product as well as put errors of the features and everything that would be amazing
-![image caption](Pictures/Block_Diagram_314.pdf)
+# Selected Design
+The design the team decided on was a compact, user-friendly temperature and humidity sensor designed for seamless integration onto mobile homes, campers, or sprinter-styled vans. This innovative device features an intuitive LCD screen interface that prompts users with the option to deploy a canopy based on the prevailing outdoor temperature or humidity levels. While users retain full control over canopy deployment, the sensor serves as a proactive safeguard against the elements, empowering travelers to make informed decisions about their outdoor comfort and protection.
+
+## Canopy and Overall Design
+
+![image caption](Canopy.png)
