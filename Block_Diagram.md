@@ -3,12 +3,12 @@
 The block diagram consists of:
 <br>
 1. One TC74 Temperature Sensor
-   - This temperature sensor can accuratly read the temperature from about -40°F to 257°F
+   - This temperature sensor can accurately read the temperature from about -40°F to 257°F
    - This sensor is powered by 3.3V
 
 2. One Humidity Sensor
-   - EAN FILL IN HERE
-   - AND HERE IF YOU NEED
+   - This humidity sensor can read relative humidity as a percentage
+   - The sensor has an accuracy of +- 4.5%
   
 3. One High Powered 12v Motor
    - BRAD FILL HERE
