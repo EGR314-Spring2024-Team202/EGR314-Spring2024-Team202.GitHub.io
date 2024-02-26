@@ -21,6 +21,6 @@ The block diagram consists of:
 ## The current flow of the product's block diagram can be viewed below:
 <br>
 
-![image caption](Pictures/Block_Diagram_314.pdf)
+![image caption](Pictures/Block_Diagram_314.png)
 
-![bg](Pictures/Block_Diagram_314.pdf)
+![PDF For Viewing](Pictures/Block_Diagram_314.pdf)
