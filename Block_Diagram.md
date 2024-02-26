@@ -18,7 +18,7 @@ The block diagram consists of:
    - EDGAR FILL IN HERE
    - AND HERE YOU WILL PROBABLY NEED
   
-## The current flow of the product's block diagram can be viewed below:
+### The current flow of the product's block diagram can be viewed below:
 <br>
 
 ![image caption](Pictures/Block_Diagram_314.png)
