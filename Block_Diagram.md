@@ -14,8 +14,8 @@ The block diagram consists of:
    - Motor itself will receive power from the 12 volt rail as the motor driver will recieve 3.3V
   
 4. The entire system is programmed through a PIC18F47Q10 Microchip along with an ESP32 WiFi Module
-   - EDGAR FILL IN HERE
-   - AND HERE YOU WILL PROBABLY NEED
+   - This Microcontroller is based on a 8-bit architecture making it a low power consumption.
+   - Is well suited for a wide range of embedded control applications.
   
 ### The Current Block Diagram:
 <br>
