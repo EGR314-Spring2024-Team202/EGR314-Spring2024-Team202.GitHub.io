@@ -2,7 +2,7 @@
 
 Presented below is the comprehensive inventory of the team's logic level (3.3V MAX) components, accompanied by the essential supporting components required for their operation. Following these tables, you'll find the complete schematic of the team's setup
 
-## Logic Level Parts 
+## Logic Level Components 
 
 | Product |Part Number|
 |  :---: |  :---: |
@@ -13,7 +13,7 @@ Presented below is the comprehensive inventory of the team's logic level (3.3V M
 |Motor Driver|IFX9201SGAUMA1|
 |Humidity Sensor|480-5704-1-ND|
 
-## Additional Parts
+## Additional Components
 
 | Product (Part Number) | Value | Quantity |
 |  :---:   | :---: | :---: |
