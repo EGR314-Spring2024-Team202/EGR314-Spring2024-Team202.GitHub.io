@@ -28,6 +28,6 @@ Presented below is the comprehensive inventory of the team's logic level (3.3V M
 | Inductor (IHLP2525CZER220M11) |22uH|1|
 
 ## Complete Schematic
-![](Pictures/TS.png)
+![](Pictures/TS(2).png)
 
 
