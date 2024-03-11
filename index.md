@@ -1,5 +1,5 @@
 
-# Mobile Camper
+# CozyCove Smart Canopy
 
 ## ASU | Embedded Systems Design Project II (2024 Spring) | Prof. Travis Kelley
 
