@@ -20,6 +20,4 @@ The block diagram consists of:
 ### The Current Block Diagram:
 <br>
 
-![image caption](Pictures/Block_Diagram_314.png)
-
-![PDF For Viewing](Pictures/Block_Diagram_314.pdf)
+![image caption](Pictures/BD(2).png)
