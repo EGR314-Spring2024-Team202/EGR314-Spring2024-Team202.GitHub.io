@@ -1,9 +1,9 @@
 
 # CozyCove Smart Canopy
 
-## ASU | Embedded Systems Design Project II (2024 Spring) | Prof. Travis Kelley
+### ASU | Embedded Systems Design Project II (2024 Spring) | Prof. Travis Kelley
 
-1/26/2024
+3/11/2024
 
 ## Team 202 
 
