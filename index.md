@@ -28,14 +28,21 @@ Last Updated: 4/25/2024
 
 [Selected Design](/Selected_Design.md)
 
-[Component Selection](/Component_Selection.md)
-
 [Block Diagram](/Block_Diagram.md)
 
-[Software Proposal](/Software_proposal.md)
+[Component Selection](/Component_Selection.md)
 
-[Hardware Proposal](/Hardware_Proposal.md)
+<!--[Software Proposal](/Software_proposal.md)-->
 
+<!--[Hardware Proposal](/Hardware_Proposal.md)-->
+
+[Software Implementation](/Software_Implementation.md)
+
+[Hardware Implementation](/Hardware_Implementation.md)
+
+[System Verification](/System_Verification.md)
+
+[Lessons Learned and Recommendations](/Lessons_Learned.md)
 
 ## Presentation
 
