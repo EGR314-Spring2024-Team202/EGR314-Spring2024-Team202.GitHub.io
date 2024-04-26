@@ -16,6 +16,7 @@
 ![image caption](Pictures/Topic_Table.png)
 
 ## MPLABX Code 
+```
 #include "mcc_generated_files/mcc.h"
 #include "mcc_generated_files/i2c1_master.h"
 #include "mcc_generated_files/examples/i2c1_master_example.h"
@@ -140,4 +141,5 @@ int main(void)
 }
 /*
     End of File
-*/ '
+*/ 
+```
