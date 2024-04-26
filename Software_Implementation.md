@@ -58,7 +58,7 @@ uint8_t hum_value = 0x0;
 void timer_callback(void){
     TemperatureGet();
     HumidityGet();  
-    printf('Temp:3.1f; Humidity=4.1f',temp_value,hum_value);
+    printf('Temp:3.1f; Humidity=4.1f\r\n',temp_value,hum_value);
 }
 
 //Temperature Sensor Function
