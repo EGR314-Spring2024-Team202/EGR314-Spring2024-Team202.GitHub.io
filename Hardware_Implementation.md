@@ -22,3 +22,9 @@ A motor and motor controller that communicate using an SPI-based interface make 
 
 ![image caption](Pictures/PCB_Pic_B.jpg)
 
+## What If: Version 2.0
+If we were to make a second version, the team would start with a new Microcontroller. The team currently uses a 14 pin PIC which makes it difficult to work with. The team was forced to branch both sensors along with the programing headers all from one pin on the PIC. The PIC also offered very little versitility which caused some issues. 
+
+Next, the team would add plenty of debugging LEDs to help with the debugging process. There are currently no debugging LEDs on the team's schematic and board. This made it difficult to assess the issues with the team board when programming. 
+
+Lastly, the team wants to impliment header pins at each unused GPIO pin in the event of needing to add additional components to the board. The header pins would allow the team to add components with ease rather than needing to damage the board in some way.
