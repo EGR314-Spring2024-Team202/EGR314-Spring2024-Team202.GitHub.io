@@ -1,9 +1,6 @@
-# Lessons Learned
-1. Always plan for failure
-2. Parts should be chosen carefully
-
-# Recommendations for Future Students
-1. Design your PCB so that you can change it after it is printed
-2. Check your teammates' work
-3. Order enough backup parts for multiple devices
-4. 
+# Lessons Learned and Advice for Future Students
+1. Always plan for failure. When working on a big project like this where there are multiple parts coming together to make one product, it is crucial that you work ahead. Plan for nothing to go right and always have a back up for when the time comes. If you expect everything to go the way you plan, you will not be prepared to fix the parts that go wrong. Wether it be soldering a second team board for backup, or having spare parts in case you fry your main ones, being 10 steps ahead is always crucial. An example of this can be seen in the final board produced for this project. The board was small and not many areas for debugging, this made it difficult to find issues on the board and ultimately required the team to damage the board to make it work.
+2. Parts should be chosen carefully. When choosing your parts for your subsystem, make sure you choose something that you know will work. In our case, the PIC that was chosen did not have enough pins for us to comfortably work with it. This caused issues when it came to debugging. Make sure to do your research when choosing parts, if you see a part that has a lot of people having problems, maybe stray away from that as it is likey you too will have those same issues. 
+3. Design your PCB so that you can change it after it is printed.
+4. Check your teammates' work. If your team is not doing work to par, it is on you to make sure they reach the expectations that are set for them. This will hurt you in the long run and will ultimately affect the team in the end. If your teammate slacks on their own work, they will slack on team work.
+5. Order enough backup parts for multiple devices. When working on a big project like this, with little to know soldering and programming knowledge, it is likely you will damage a few parts. This happens, and is normal, but it is also important to keep extra parts handy, otherwise you will be stuck waiting for a new shipment to be sent in. 
