@@ -9,3 +9,7 @@
 
 ![image caption](Pictures/PCB_Bottom.png)
 
+![image caption](Pictures/PCB_Pic_T.jpg)
+
+![image caption](Pictures/PCB_Pic_B.jpg)
+
