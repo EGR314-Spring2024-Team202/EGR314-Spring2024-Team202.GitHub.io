@@ -1,5 +1,5 @@
 # Benchmarking
-
+Below you can see the benchmarking that the team compiled using different products with a similar sets of qualifications. The team compiled many consumer reviews of the products, choosing both positive and negative reviews, and compiled lists of each pro and con. Once the team was done compiling the lists, they then grouped them them based on their different categories. 
 ## 1. Searched: “Mobile weather station”
 <br>
 
