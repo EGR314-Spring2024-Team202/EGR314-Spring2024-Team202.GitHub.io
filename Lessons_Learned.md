@@ -7,3 +7,6 @@
 3. Design your PCB so that you can change it after it is printed.
 4. Check your teammates' work. 
 5. Order enough backup parts for multiple devices
+
+
+[Back to Home Page](/index.md)
