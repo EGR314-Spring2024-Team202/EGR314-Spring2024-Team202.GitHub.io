@@ -1,3 +1,4 @@
+[Back to Home Page](/index.md)
 # Design Ideation
 Below you can see our brainstorming process to choose a design. You may notice the final design being none of the following selected designs. This is because, as a group, we agreed the previous selected design would not be feasible for the time we had. With more time, we would have liked to fulfil the requirements for this selected design.
 
@@ -25,4 +26,3 @@ As a group, we came up with 95 different ideas, features, and add-ons for a poss
 <div align="left">
 
 
-[Back to Home Page](/index.md)
