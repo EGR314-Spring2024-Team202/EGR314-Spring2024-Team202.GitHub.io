@@ -16,3 +16,6 @@ Below, we've meticulously curated the selected components for the product, ensur
 ## Power Budget
 
 ![](Pictures/PB.png)
+
+
+[Back to Home Page](/index.md)
