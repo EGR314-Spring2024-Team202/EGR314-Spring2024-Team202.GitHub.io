@@ -9,3 +9,6 @@ In this page there is information on the parameters and thought processes we cre
 
 ## Software Proposal Diagram
 ![image caption](Software_Proposal.drawio.png)
+
+
+[Back to Home Page](/index.md)
