@@ -21,3 +21,6 @@ The block diagram consists of:
 <br>
 
 ![image caption](Pictures/BD(2).png)
+
+
+[Back to Home Page](/index.md)
