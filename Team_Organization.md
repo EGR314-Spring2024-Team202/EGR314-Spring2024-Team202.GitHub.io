@@ -15,3 +15,6 @@ Our team communication channels is mainly text and discord. Our contact informat
 ## Communication Procedures
 
 The team will primarily text for ongoing discussions and employ in-person meetings, Discord messages, for communication. In case of an emergency, team members are told to call one another. If a team member fails to attend class, it is the on the student that missed class to communicate with the team or ask the professor for information. Team members will stay in regular communication with the professor, and the designated team recorder will act as the primary intermediary to facilitate effective interaction. This simplified approach is designed to improve teamwork and project efficiency.
+
+
+[Back to Home Page](/index.md)
