@@ -1,14 +1,9 @@
 # Selected Design
-The design the team decided on was a compact, user-friendly temperature and humidity sensor designed for seamless integration onto mobile homes, campers, or sprinter-styled vans. This innovative device features an intuitive LCD screen interface that prompts users with the option to deploy a canopy based on the prevailing outdoor temperature or humidity levels. While users retain full control over canopy deployment, the sensor serves as a proactive safeguard against the elements, empowering travelers to make informed decisions about their outdoor comfort and protection.
+The selected design is a temperature and humidity controlled fan. The idea for the fan is to automatically turn on when the temperature or humidity gets too high. The fan would require no human interaction other than to switch on and off when not in use. The base will have a system of magnets to allow the user to prop it up on their RV, metal shed, or mobile home. The fan also allows 90° of rotation which allows the user to change the angle at which the fan will blow on them. This fulfills the users' needs of freedom of use, and easy setup. The fan requires no tools to assemble and can be used directly out of the box. 
+## Fan Design
 
-## Canopy and Overall Design
+![image caption](Pictures/FanIso.jpg)
 
-![image caption](Pictures/Canopy.png)
+## 45° Angle
 
-## Temperature and Humidity Sensor Housing
-
-![image caption](Pictures/Housing.png)
-
-## LCD Screen
-
-![image caption](Pictures/LCD_Screen.png)
+![image caption](Pictures/FanFront.jpg)
