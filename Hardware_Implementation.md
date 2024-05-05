@@ -22,6 +22,10 @@ A motor and motor controller that communicate using an SPI-based interface make 
 
 ![image caption](Pictures/PDBBOTTOM.png)
 
+![image caption](Pictures/PCB_Pic_T.jpg)
+
+![image caption](Pictures/PCB_Pic_B.jpg)
+
 ## What If: Version 2.0
 If we were to make a second version, the team would start with a new Microcontroller. The team currently uses a 14 pin PIC which makes it difficult to work with. The team was forced to branch both sensors along with the programing headers all from one pin on the PIC. The PIC also offered very little versitility which caused some issues. 
 
